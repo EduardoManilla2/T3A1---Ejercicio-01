@@ -13,7 +13,7 @@ Desarrollar una solución que permita ingresar y almacenar las calificaciones fi
   -Promedio = sumaDeCalificaciones / totalDeCalificaciones 
 
 3.-Salida:
--Resumen de los datos del estudiante con su promedio
+  -Resumen de los datos del estudiante con su promedio
 
 ~~~
 +-----------------------------------------------------------+
