@@ -28,4 +28,4 @@ Desarrollar una solución que permita ingresar y almacenar las calificaciones fi
 +-----------------------------------------------------------+
 ~~~
 ## Etapa 3.Diseño de la solución
-Diagrama de la clase
+Diagrama de la clase 
