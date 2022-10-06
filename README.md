@@ -6,16 +6,14 @@ Desarrollar una solución que permita ingresar y almacenar las calificaciones fi
 ## Etapa 2. Especificaciones 
 1.-Entrada:
   -Estudiantes: Nombre, apellidos, grupo, carrera.
-  
-  -Asignaturas: calificiaciones, nombre de la asignatura 
+  -Asignaturas: calificiaciones, nombre de la asignatura.
 
 2.-Proceso:
-  -Calcular el promedio de las calificaciones finales 
-  
-  -Promedio = sumaDeCalificaciones / totalDeCalificaciones 
+  -Calcular el promedio de las calificaciones finales.
+  -Promedio = sumaDeCalificaciones / totalDeCalificaciones.
 
 3.-Salida:
-  -Resumen de los datos del estudiante con su promedio
+  -Resumen de los datos del estudiante con su promedio.
 
 ~~~
 +-----------------------------------------------------------+
