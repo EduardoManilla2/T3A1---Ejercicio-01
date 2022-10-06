@@ -5,7 +5,7 @@ Desarrollar una solución que permita ingresar y almacenar las calificaciones fi
 
 ## Etapa 2. Especificaciones 
 1.-Entrada:
-  -Estudiantes: Nombre, apellidos, grupo, carrera.
+  -Estudiantes: Nombre, apellidos, grupo, carrera.(n/)
   -Asignaturas: calificiaciones, nombre de la asignatura.
 
 2.-Proceso:
