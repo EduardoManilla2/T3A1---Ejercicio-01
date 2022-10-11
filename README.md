@@ -19,8 +19,8 @@ Desarrollar una solución que permita ingresar y almacenar las calificaciones fi
 +-----------------------------------------------------------+
 | Estudiante: Eduardo Perez Manilla                         |
 | Grupo: 1A    Carrera: INGENIERÍA INFORMÁTICA              |
-|                                                           |
-|   Asignaturas:                         Calidicación       |
+|-----------------------------------------------------------|                                  
+|   Asignaturas:                         Calificación       |
 |   FUNDAMENTOS DE PROGRAMACIÓN               75            |
 |   MATEMATICAS DICRETAS                      85            |
 |-----------------------------------------------------------|  
