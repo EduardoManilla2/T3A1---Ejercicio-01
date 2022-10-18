@@ -28,7 +28,7 @@ Desarrollar una solución que permita ingresar y almacenar las calificaciones fi
 +-----------------------------------------------------------+
 ~~~
 
-## Etapa 3.Diseño de la solución
+ 
 Diagrama de la clase  
 ![](https://github.com/EduardoManilla2/T3A1---Ejercicio-01/blob/main/T3A1.png)
 
