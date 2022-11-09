@@ -17,14 +17,14 @@ Desarrollar una solución que permita ingresar y almacenar las calificaciones fi
 
 ~~~
 +-----------------------------------------------------------+
-| Estudiante: Eduardo Perez Manilla                         |
-| Grupo: 1A    Carrera: INGENIERÍA INFORMÁTICA              |
-|-----------------------------------------------------------|                                  
-|   Asignaturas:                         Calificación       |
-|   FUNDAMENTOS DE PROGRAMACIÓN               75            |
-|   MATEMATICAS DICRETAS                      85            |
-|-----------------------------------------------------------|  
-|   PROMEDIO:                                 80            |
+ Estudiante: Eduardo Perez Manilla                         
+ Grupo: 1A             Carrera: INGENIERÍA INFORMÁTICA              
++-----------------------------------------------------------+                                 
+Asignaturas:                         Calificaciones        
+FUNDAMENTOS DE PROGRAMACIÓN               75            
+MATEMATICAS DICRETAS                      85            
++-----------------------------------------------------------+
+PROMEDIO: 80            
 +-----------------------------------------------------------+
 ~~~
 
