@@ -30,7 +30,7 @@ PROMEDIO: 80
 
  
 Diagrama de la clase  
-![](https://github.com/EduardoManilla2/T3A1---Ejercicio-01/blob/main/T3A1.png)
+![](https://github.com/EduardoManilla2/T3A1---Ejercicio-01/blob/main/La%20clase%20del%20ejercicio%201%20del%20tema%203.jpg)
 
 ## Etapa 4. Desarrollo de la solución
 https://github.com/EduardoManilla2/T3A1---Ejercicio-01/blob/main/A1%20rectificado.rar
